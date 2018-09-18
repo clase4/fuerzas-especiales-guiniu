@@ -6,3 +6,5 @@ ahora jaime leal modifico desde el frontend Web
 
 ahora si sabemos usar esta vaina!!!!!!!
 naa mentira era echando vaina
+
+viste chamo solo te hacia falta meterte en la carpeta
